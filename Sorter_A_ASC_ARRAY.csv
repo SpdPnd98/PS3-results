@@ -1,0 +1,8 @@
+size,sorted,stable,timeTaken
+1,true,true,5.4902E-5
+8,true,true,7.9997E-5
+64,true,true,0.001426252
+512,true,true,0.007343243
+4096,true,true,0.05769599
+32768,true,true,0.4796333
+262144,true,true,3.6822665
